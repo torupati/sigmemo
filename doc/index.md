@@ -6,6 +6,7 @@ Documents in this folder:
   - [Power Spectrum](./power_spectrum.md)
   - [One-Side PSD](./one_side_psd.md)
 - [02 Noise](./02_noise.md)
+  - [White Noise and Random Walk — A Beginner's Guide](./noise_basics.md)
   - [White Noise](./white_noise.md)
   - [Random Walk Noise](./random_walk_noise.md)
   - Allan Variance
